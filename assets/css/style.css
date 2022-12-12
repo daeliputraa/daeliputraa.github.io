@@ -730,3 +730,13 @@ section {
     margin-left: -200px;
   }
 }
+@media screen and (max-width: 550px) {
+  #hero .hero-container {
+    margin-left: -100px;
+  }
+}
+@media screen and (max-width: 550px) {
+  #hero {
+    background-position: -350px 0;
+  }
+}
